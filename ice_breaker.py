@@ -94,4 +94,4 @@ if __name__ == "__main__":
 
     # translate(llm)
     # suummarize(llm)
-    give_information_about_a_person(llm)
+    # give_information_about_a_person(llm)
